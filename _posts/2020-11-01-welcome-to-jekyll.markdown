@@ -15,3 +15,5 @@ After a long time without blogging and sharing my findings, starting from scratc
 As usual, you'll find writtings about kubernetes, Azure or PowerShell (not in that particular order :) ) you may also read posts about sports (trail or running)
 
 See you soon, space cowboy !
+
+Bye.
