@@ -1,0 +1,56 @@
+I"×<style>
+.category-content a {
+    text-decoration: none;
+    color: #4183c4;
+}
+
+.category-content a:hover {
+    text-decoration: underline;
+    color: #4183c4;
+}
+</style>
+
+<main>
+    
+        <div class="pure-u-1 tags">
+        <h2 id="Essays">Essays</h2>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/disrupting-the-attention-based-economy">Disrupting the Attention-based Economy</a></li>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/the-duality-of-purpose-and-work">The Duality of Purpose and Work</a></li>
+        
+        </div>
+    
+        <div class="pure-u-1 tags">
+        <h2 id="Guides">Guides</h2>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/creating-a-contingency-plan">Creating a Contingency Plan</a></li>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/my-writing-process">My Writing Process</a></li>
+        
+        </div>
+    
+        <div class="pure-u-1 tags">
+        <h2 id="How-To">How-To</h2>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/a-comprehensive-guide-to-self-learning">A Comprehensive Guide to Self-Learning</a></li>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/getting-unstuck">Getting Unstuck for Creatives</a></li>
+        
+        </div>
+    
+        <div class="pure-u-1 tags">
+        <h2 id="Example Posts">Example Posts</h2>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/a-glorious-example-post">A Glorious Example Post</a></li>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/welcome-to-jekyll">Welcome to Jekyll!</a></li>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/markdown-syntax-preview">Markdown Syntax Preview</a></li>
+        
+        </div>
+    
+    <br />
+    <br />
+</main>
+:ET

@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Jekyll">
+    <link rel="license" href="LICENSE">
+
+    <meta name="application-name" content="pwrshell[dot]net">
+    <meta name="theme-color" content="">
+    <link rel="archives" href="http://localhost:4000/archives/">
+
+    <meta name="robots" content="index,follow"> <!-- All Search Engines -->
+    <meta name="googlebot" content="index,follow"><!-- Google Specific    -->
+
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="stylesheet" href="/assets/code.css">
+    <script src="https://kit.fontawesome.com/e9dddf84a6.js" crossorigin="anonymous"></script><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Journals | pwrshell[dot]net</title>
+<meta name="generator" content="Jekyll v4.0.1" />
+<meta property="og:title" content="Journals" />
+<meta name="author" content="Fabien Dibot" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A place to store all my findings, as I may not the only one looking for stuff around Kubernetes, Azure &amp; PowerShell." />
+<meta property="og:description" content="A place to store all my findings, as I may not the only one looking for stuff around Kubernetes, Azure &amp; PowerShell." />
+<link rel="canonical" href="http://localhost:4000/journals" />
+<meta property="og:url" content="http://localhost:4000/journals" />
+<meta property="og:site_name" content="pwrshell[dot]net" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-12-20T09:16:20+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Journals" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@Fabien Dibot" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/journals"},"url":"http://localhost:4000/journals","author":{"@type":"Person","name":"Fabien Dibot"},"headline":"Journals","dateModified":"2021-12-20T09:16:20+01:00","datePublished":"2021-12-20T09:16:20+01:00","description":"A place to store all my findings, as I may not the only one looking for stuff around Kubernetes, Azure &amp; PowerShell.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="pwrshell[dot]net" /><link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml">
+</head><body>
+
+    <div id="layout" class="pure-g"><aside class="sidebar pure-u-1 pure-u-md-1-4">
+    <div class="sidebar-info">
+        <a href="/">
+            <span hidden>pwrshell[dot]net
+                Header Image</span>
+            <img class="brand-photo" src="http://localhost:4000/assets/profile.png" alt="Photo of Fabien Dibot"/>
+        </a>
+        <h1 class="brand-title">
+            <a href="/">pwrshell[dot]net</a>
+        </h1>
+        <h2 class="brand-tagline">A place to store all my findings, as I may not the only one looking for stuff around Kubernetes, Azure & PowerShell.</h2>
+
+        <nav class="nav">
+            <ul class="nav-list">
+                <li class="nav-item">
+                    <a class="pure-button" href="http://localhost:4000">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href="http://localhost:4000/notes">Notes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="pure-button" href="http://localhost:4000/journals">Journal</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</aside><div class="content pure-u-1 pure-u-md-3-4">
+            <div class="md-display">
+                <h1>
+                    <a class="jekyll-header" href="/">Welcome to pwrshell[dot]net</a>
+                </h1><div class="menu">
+    <div class="about">
+        <a href="/about">
+            <i class="fas fa-signature"></i>
+            About
+        </a>
+    </div>
+    <div class="hashtags">
+        <a href="/tags">
+            <i class="fas fa-hashtag"></i>
+            Tags
+        </a>
+    </div>
+    <div class="categories">
+        <a href="/categories">
+            <i class="far fa-folder-open"></i>
+            Categories
+        </a>
+    </div>
+    <div class="archive">
+        <a href="/archive">
+            <i class="fas fa-archive"></i>
+            Archive
+        </a>
+    </div>
+    <div class="rss">
+        <a href="/feed.xml">
+            <i class="fas fa-rss"></i>
+            RSS
+        </a>
+    </div>
+    <div class="donate">
+        <a href="">
+            <i class="fas fa-dollar-sign"></i>
+            Donate
+        </a>
+    </div>
+</div><div id="search">
+    <label>
+        <span class="search-icon">🔎</span>
+        <input autocomplete="off" id="search-input" oninput="changeResultContainerDisp(this.value)" placeholder="Search all articles..." type="text"/>
+    </label>
+
+    <ul id="results-container" style="display: none"></ul>
+</div>
+<script src="/assets/simple-jekyll-search.js"></script>
+<script>
+    function changeResultContainerDisp(val) {
+        if (val) {
+            document
+                .getElementById("results-container")
+                .style
+                .display = "block";
+            document.getElementById("search-input").addEventListener("blur", function () {
+                document.addEventListener("click", function (event) {
+                    var isClickInside = document.getElementById("results-container").contains(event.target);
+                    if (! isClickInside) {
+                        document
+                            .getElementById("results-container")
+                            .style
+                            .display = "none";
+                    }
+                })
+            })
+        } else {
+            document
+                .getElementById("results-container")
+                .style
+                .display = "none";
+        }
+    }
+    var sjs = SimpleJekyllSearch({
+        searchInput: document.getElementById("search-input"),
+        resultsContainer: document.getElementById("results-container"),
+        json: "/search.json",
+        searchResultTemplate: "<li class='search_res' style='list-style: none;'><a href='http://localhost:4000{url}' color: #555555;'><p><strong>></strong> {title}</p></a></li>",
+        noResultsText: "No results found. Try another search.",
+        fuzzy: false,
+        limit: 5
+    })
+</script></div>
+            <div>
+                
+
+
+
+
+<div class="journals">
+    <h2 class="content-subhead">Recent Journals</h2><section class="journal">
+                <header class="journal-header">
+                    <small>
+                        <h2 class="post-title">
+                            <a href="/journals/November-10th-2020">
+                                November 10th, 2020
+                            </a>
+                        </h2>
+                    </small>
+                </header>
+
+                <div class="journal-description">
+                    <p>
+                        <em>Alright, let&#39;s get into the weeds this week (or perhaps flowers?). Overall, I think I&#39;ve found a good equilibrium with Beeminder. I don&#39;t often derail, but at the same time I have over a dozen beemergencies every single day.
+
+I&#39;m also really happy for the spread of systems I have,...</em>
+                    </p>
+                </div>
+            </section><section class="journal">
+                <header class="journal-header">
+                    <small>
+                        <h2 class="post-title">
+                            <a href="/journals/November-3rd-2020">
+                                November 3rd, 2020
+                            </a>
+                        </h2>
+                    </small>
+                </header>
+
+                <div class="journal-description">
+                    <p>
+                        <em>Quite a red-letter day for my neighbours south of the border. I would be lying if I said I wasn&#39;t anxious for tonight, so I better finish this weekly review as early as possible :^)
+
+First off, my apologies for this post not being very Beeminder-specific, I&#39;ve been getting dedicated with ...</em>
+                    </p>
+                </div>
+            </section><section class="journal">
+                <header class="journal-header">
+                    <small>
+                        <h2 class="post-title">
+                            <a href="/journals/October-13th-2020">
+                                October 13th, 2020
+                            </a>
+                        </h2>
+                    </small>
+                </header>
+
+                <div class="journal-description">
+                    <p>
+                        <em>Another busy bee week! Time seems to be flying by for me. On the forums, I was given the _Regular_ badge, meaning I can change thread titles, such as &quot;Brennan&#39;s Beeminder Journal 2020&quot; to &quot;Brennan&#39;s Beeminder Journal&quot;, which allows this Beejournal to continue ad infini...</em>
+                    </p>
+                </div>
+            </section><section class="journal">
+                <header class="journal-header">
+                    <small>
+                        <h2 class="post-title">
+                            <a href="/journals/October-20th-2020">
+                                October 20th, 2020
+                            </a>
+                        </h2>
+                    </small>
+                </header>
+
+                <div class="journal-description">
+                    <p>
+                        <em>Yet _another_ busy bee-week. I&#39;m really enjoying becoming increasingly focused on both the weeds of technicalities, as well as trying to think deeper on the higher concepts that I&#39;m trying to utilize.
+
+For starters, I&#39;ve written in the past about wanting to pivot, but I realize that I...</em>
+                    </p>
+                </div>
+            </section><section class="journal">
+                <header class="journal-header">
+                    <small>
+                        <h2 class="post-title">
+                            <a href="/journals/October-27th-2020">
+                                October 27th, 2020
+                            </a>
+                        </h2>
+                    </small>
+                </header>
+
+                <div class="journal-description">
+                    <p>
+                        <em>Not really as busy with Beeminder this week! I&#39;ve mostly been really busy with my new Jekyll digital garden project (which you can preview [here](https://enjoymentwork.netlify.app) if you&#39;re curious). It&#39;s crazy how many useful rabbit holes I&#39;ve gone down in research, and with the...</em>
+                    </p>
+                </div>
+            </section><section class="journal">
+                <header class="journal-header">
+                    <small>
+                        <h2 class="post-title">
+                            <a href="/journals/October-6th-2020">
+                                October 6th, 2020
+                            </a>
+                        </h2>
+                    </small>
+                </header>
+
+                <div class="journal-description">
+                    <p>
+                        <em>A rather busy week for me, bee-wise. I&#39;ve been spending more time on the forums and getting more into the weeds of things, which has been fun!
+
+I realize now, at this point, I have ±10 beemergencies a day. This is by design, as it pushes me to actually get my daily tasks done.
+
+It doesn&#39;t...</em>
+                    </p>
+                </div>
+            </section></div>
+
+
+    <br/><hr/>
+
+<footer class="footer">
+    <div class="pure-menu pure-menu-horizontal">
+        <ul>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="/">
+                    <i class="fas fa-home"></i>
+                    <span class="md-display">Home</span>
+                </a>
+            </li>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="https://twitter.com/fadibot">
+                    <i class="fab fa-twitter"></i>
+                    <span class="md-display">Twitter</span>
+                </a>
+            </li>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="https://github.com/fabiendibot">
+                    <i class="fab fa-github"></i>
+                    <span class="md-display">GitHub</span>
+                </a>
+            </li>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="mailto:mail@truc.com">
+                    <i class="fas fa-paper-plane"></i>
+                    <span class="md-display">E-mail</span>
+                </a>
+            </li>
+            <li class="pure-menu-item">
+                <a class="pure-menu-link" href="https://github.com/brennanbrown/purelog">
+                    <i class="fas fa-code"></i>
+                    <span class="md-display">Source Code</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</footer></div>
+        </div>
+    </div>
+
+</body>
+
+</html>

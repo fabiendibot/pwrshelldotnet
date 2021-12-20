@@ -1,0 +1,28 @@
+I"H<p><strong>Purelog</strong> is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal <a href="https://github.com/pure-css/pure"><strong>Pure.css</strong> framework</a> (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.</p>
+
+<p>I created this after finishing <a href="https://github.com/brennanbrown/watery">Watery</a> (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.</p>
+
+<p>This project is aimed towards those looking for an interesting theme for Jekyll that has features that aren’t found commonly elsewhere, which I’ll list down below.</p>
+
+<h3 id="features">Features</h3>
+
+<p>Here are a few interesting features of this Jekyll theme:</p>
+
+<ul>
+  <li>A fully customizable and empty <code class="highlighter-rouge">_BLANK_config.yml</code> to make getting up-and-running easy.</li>
+  <li>A speedy, on-site search function using <a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simply Jekyll Search</a>.</li>
+  <li>Custom collections for different types of material (note-taking, journal writing, etc.)</li>
+  <li>An auto-generating archive page that displays all entries from <em>all</em> collections.</li>
+  <li>Having a <code class="highlighter-rouge">_pages</code> collection for easier organization.</li>
+  <li>An author bio at the end of each post. (Located in <code class="highlighter-rouge">_inclues/author.html</code>)</li>
+  <li>Full Rouge support for syntax highlighting. (Currently using <code class="highlighter-rouge">base16.solarized.light</code>)</li>
+  <li>Auto-generated RSS feed, sitemap, accessibility features, and search-engine optimization.</li>
+</ul>
+
+<p>You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+
+<p>You can find the source code for Jekyll at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+
+:ET

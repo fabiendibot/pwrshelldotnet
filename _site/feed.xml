@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-20T09:16:20+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">pwrshell[dot]net</title><subtitle>A place to store all my findings, as I may not the only one looking for stuff around Kubernetes, Azure &amp; PowerShell.</subtitle><author><name>Fabien Dibot</name></author><entry><title type="html">A Comprehensive Guide to Self-Learning</title><link href="http://localhost:4000/a-comprehensive-guide-to-self-learning" rel="alternate" type="text/html" title="A Comprehensive Guide to Self-Learning" /><published>2020-11-03T00:00:00+01:00</published><updated>2020-11-03T00:00:00+01:00</updated><id>http://localhost:4000/a-comprehensive-guide-to-self-learning</id><content type="html" xml:base="http://localhost:4000/a-comprehensive-guide-to-self-learning">&lt;p&gt;One of the most effective methods to understanding the materials that you’re studying is to be passionate about them. This is the beauty of MOOCs — the idea that you can pick and choose to learn exactly and only what you want to.&lt;/p&gt;
+
+&lt;p&gt;Don’t jump into a new study without having a plan for it. Whenever you feel discouraged or frustrated, you can take a step back and look at the bigger picture.&lt;/p&gt;
+
+&lt;p&gt;There’s plenty of meaningful applications for learning new skills: to further your career, to find a new skill to freelance or moonlight with, or to contribute to a hobby or non-profit cause for the sake of goodness.&lt;/p&gt;
+
+&lt;p&gt;When you have a mindset of passion — of having a reason to learn and a future goal to look forward too — it is far easier to focus and digest material on a deeper level of understanding, beyond simply learning from rote.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule:&lt;/strong&gt; With so much choice and freedom, it can be easy to try to accomplish too many things at once, only to end up neglecting your studies altogether. This is why it’s so important to chart out a path for yourself once you figure out what you want to accomplish.&lt;/p&gt;
+
+&lt;p&gt;Ask yourself how much time you’re able to sacrifice and how much effort you’ll sincerely put into this. Once you have those answers, you’ll be able to plan your own curriculum of sorts.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;img data-width=&quot;1280&quot; data-height=&quot;983&quot; src=&quot;https://cdn-images-1.medium.com/max/2560/1*gWYKhWJzQ_lgsdWR3EV4uQ.jpeg&quot; /&gt; &lt;figcaption class=&quot;wp-caption-text&quot;&gt;Navajo Students Studying Mathematics at Day School | &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Navajo_students_studying_mathematics_at_day_school_-_NARA_-_295155.jpg&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Source&lt;/strong&gt;&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;how-to-unlock-the-full-potential-of-a-new-era-of-education&quot;&gt;How to unlock the full potential of a new era of education.&lt;/h4&gt;
+
+&lt;p&gt;For the past few years, the world of &lt;a href=&quot;https://www.mooc-list.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;MOOC&lt;/a&gt; (Massively Open Online Courses) has become a fiercely large phenomenon. Across Medium and &lt;a href=&quot;https://www.reddit.com/r/learnprogramming/comments/3zfbp1/heres_a_list_of_221_free_online_programmingcs/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Reddit&lt;/a&gt; you can find great, comprehensive lists of free classes you can take:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.freecodecamp.com/the-best-free-online-university-courses-for-learning-a-new-world-language-ccf42ad1b5d5&quot;&gt;https://medium.freecodecamp.com/the-best-free-online-university-courses-for-learning-a-new-world-language-ccf42ad1b5d5&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span&gt;T&lt;/span&gt;his, however, is not one of those lists. With this new paradigm of learning, there comes the need to figuring out new methods of understanding and synthesising what is being learned. There is no curriculum, no consequences, no deadlines. This requires an exercise in self-reliance to institute. The student, in a way, must also learn how to become the teacher.&lt;/p&gt;
+
+&lt;p&gt;Creating lesson plan — let alone a learning path for yourself — is no simple task. And following through with it is another thing entirely. I am no expert myself, so take this rhetoric with a grain of salt. The examples I am going to be showing are only my own, as I’m using myself as a case study.&lt;/p&gt;
+
+&lt;h4 id=&quot;use-it-or-loseit&quot;&gt;Use It or Lose It&lt;/h4&gt;
+
+&lt;p&gt;This guide is meant as a way for you to take what you are learning and &lt;em&gt;apply&lt;/em&gt; it in a meaningful way. It is not learning for the mere sake of learning — anybody can do that. In fact, that’s what is required of us throughout our schooling years.&lt;/p&gt;
+
+&lt;p&gt;The reason we forget what we learn in school is because we don’t use it in our every day life. In fact, that’s one of the biggest complaints people have in school.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;img data-width=&quot;1070&quot; data-height=&quot;570&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*KfQQYIJcIxgSJp8XuL2xPA.png&quot; /&gt; &lt;figcaption class=&quot;wp-caption-text&quot;&gt;An Old Prototype of My Schedule&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;the-elements-of-a-successful-course&quot;&gt;The Elements of a Successful Course&lt;/h3&gt;
+
+&lt;p&gt;I’m going to break down what I think are the most important aspects when you’re learning something new on your own.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-thelesson&quot;&gt;1. The Lesson&lt;/h4&gt;
+
+&lt;p&gt;The first step is the most important part, obviously. Whether you’re taking an online course, reading a book, or studying another way — you need the content to be able to learn it. However, it’s a mistake to think that this is enough. This is really just the beginning.&lt;/p&gt;
+
+&lt;h4 id=&quot;2-notetaking&quot;&gt;2. Note Taking&lt;/h4&gt;
+
+&lt;p&gt;The second step is to go beyond the course. Note-taking is the most often used method of retention and synthesis of learning. There are many different styles of note-taking — from traditional, to Cornell, to mind-mapping.&lt;/p&gt;
+
+&lt;p&gt;The exacts of successful note-taking vary from person-to-person, but I find it’s very useful to begin to index your note-taking with what you expect the themes of your learning are going to be for that lesson, followed by reviewing what the most important things you learned at the end.&lt;/p&gt;
+
+&lt;p&gt;There is nothing wrong with a pack-rat mentality of keeping track of everything that you’re learning, so long as it doesn’t detract from you fully comprehending what is most important.&lt;/p&gt;
+
+&lt;p&gt;I also suggest that you take notes by hand first — for a few years I tried to take notes on my computer, and found that even though it made organisation and searching a breeze, I felt as though I retained less. Once you have the notes written out, though, I find that &lt;em&gt;migrating&lt;/em&gt; them to the computer does help retention and organisation.&lt;/p&gt;
+
+&lt;h4 id=&quot;3-flashcards-quizzes&quot;&gt;3. Flashcards / Quizzes&lt;/h4&gt;
+
+&lt;p&gt;The third step to better your learning is to then take your notes a step further by converting them into materials that you can test yourself with. This is why it’s so important to make sure you have the most important material kept, so you can easily create Q+A’s for it.&lt;/p&gt;
+
+&lt;p&gt;Some courses already have quizzes, which is excellent, but by creating your own, you’re coming up with questions as well as answers.&lt;/p&gt;
+
+&lt;p&gt;For flash cards, I recommend the software Anki, and &lt;a href=&quot;https://alexvermeer.com/anki-essentials/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;this guide&lt;/a&gt; for it.&lt;/p&gt;
+
+&lt;h4 id=&quot;4-assignments-projects&quot;&gt;4. Assignments / Projects&lt;/h4&gt;
+
+&lt;p&gt;The fourth step is what I believe is the most important. Traditionally speaking, assignments are simply another part of the system. They are usually rather dry, and have no inherent value other than for the course itself.&lt;/p&gt;
+
+&lt;p&gt;But with MOOCs, you have the ability to push yourself to use the knowledge that you’ve gained to create your own projects that you can freely share and use. &lt;em&gt;Apply&lt;/em&gt; your learn and thus gain something outside of the learning as the reward.&lt;/p&gt;
+
+&lt;p&gt;A good example of this is that I’m in the process of making a blog with &lt;a href=&quot;https://jekyllrb.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Jekyll&lt;/a&gt;, which has the twofold benefits of learning web development, as well as having a place to document my other learning, which leads into #5.&lt;/p&gt;
+
+&lt;h4 id=&quot;5-share-yourwork&quot;&gt;5. Share Your Work&lt;/h4&gt;
+
+&lt;p&gt;Once you have finished a course, you have not only have you improved your own learning by creating all of the above resources, but you now also have the opportunity to share them with others.&lt;/p&gt;
+
+&lt;p&gt;Create a blog or use other social media to share what you’ve learned and what you’ve made in the process. Find others that you can collaborate and study with. Build a community of learners and creators. There is no reason to go at this alone.&lt;/p&gt;
+
+&lt;p&gt;See Also: &lt;a href=&quot;http://austinkleon.com/show-your-work/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Show Your Work!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;additional-tips&quot;&gt;Additional Tips&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The best skills to learn first are ‘meta-skills’, such as &lt;a href=&quot;https://www.coursera.org/learn/learning-how-to-learn&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;learning how to learn&lt;/a&gt;, time management or other skills that you can use in your studying.&lt;/li&gt;
+  &lt;li&gt;Figure out a system and stick to it. Once you have a schedule made, find a way to link it to your created materials, as well as any other important information. (My personal recommendations would be &lt;a href=&quot;https://www.onenote.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;OneNote&lt;/a&gt; for Windows, or using Sublime Text w/ Markdown for Linux.)&lt;/li&gt;
+  &lt;li&gt;When you’re writing about what you’ve learned, don’t be afraid to add your own personal story or information — conglomerate multiple sources of learning for a more thorough discourse.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Reid Doe</name></author><category term="How-To" /><category term="Creativity" /><category term="Inspiration" /><category term="Habits" /><summary type="html">One of the most effective methods to understanding the materials that you’re studying is to be passionate about them. This is the beauty of MOOCs — the idea that you can pick and choose to learn exactly and only what you want to.</summary></entry><entry><title type="html">A Glorious Example Post</title><link href="http://localhost:4000/a-glorious-example-post" rel="alternate" type="text/html" title="A Glorious Example Post" /><published>2020-11-02T00:00:00+01:00</published><updated>2020-11-02T00:00:00+01:00</updated><id>http://localhost:4000/a-glorious-example-post</id><content type="html" xml:base="http://localhost:4000/a-glorious-example-post">&lt;div class=&quot;message&quot;&gt;
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+&lt;/div&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Upvotes&lt;/th&gt;
+      &lt;th&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>Yui Doe</name></author><category term="Example Posts" /><category term="Jekyll" /><category term="Markdown" /><summary type="html">Howdy! This is an example blog post that shows several types of HTML content supported in this theme.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-11-01T00:00:00+01:00</published><updated>2020-11-01T00:00:00+01:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Andrew Smith</name></author><category term="Example Posts" /><category term="Jekyll" /><category term="Markdown" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Markdown Syntax Preview</title><link href="http://localhost:4000/markdown-syntax-preview" rel="alternate" type="text/html" title="Markdown Syntax Preview" /><published>2020-10-31T00:00:00+01:00</published><updated>2020-10-31T00:00:00+01:00</updated><id>http://localhost:4000/markdown-syntax-preview</id><content type="html" xml:base="http://localhost:4000/markdown-syntax-preview">&lt;h2 id=&quot;philosophy&quot;&gt;Philosophy:&lt;/h2&gt;
+
+&lt;p&gt;Markdown is intended to be as easy-to-read and easy-to-write as is feasible.&lt;/p&gt;
+
+&lt;p&gt;Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters — including Setext, atx, Textile, reStructuredText, Grutatext, and EtText — the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.&lt;/p&gt;
+
+&lt;p&gt;To this end, Markdown’s syntax is comprised entirely of punctuation characters, which punctuation characters have been carefully chosen so as to look like what they mean. E.g., asterisks around a word actually look like &lt;em&gt;emphasis&lt;/em&gt;. Markdown lists look like, well, lists. Even blockquotes look like quoted passages of text, assuming you’ve ever used email.
+Inline HTML&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Markdown’s syntax is intended for one purpose: to be used as a format for writing for the web.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Markdown is not a replacement for HTML, or even close to it. Its syntax is very small, corresponding only to a very small subset of HTML tags. The idea is not to create a syntax that makes it easier to insert HTML tags. In my opinion, HTML tags are already easy to insert. The idea for Markdown is to make it easy to read, write, and edit prose. HTML is a publishing format; Markdown is a writing format. Thus, Markdown’s formatting syntax only addresses issues that can be conveyed in plain text.&lt;/p&gt;
+
+&lt;p&gt;For any markup that is not covered by Markdown’s syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.&lt;/p&gt;
+
+&lt;p&gt;The only restrictions are that block-level HTML elements — e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;table&amp;gt;&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;pre&amp;gt;&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt;, etc. — must be separated from surrounding content by blank lines, and the start and end tags of the block should not be indented with tabs or spaces. Markdown is smart enough not to add extra (unwanted) &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;&lt;/code&gt; tags around HTML block-level tags. &lt;a href=&quot;https://daringfireball.net/projects/markdown/syntax&quot;&gt;&lt;strong&gt;Source&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-markdown-formatting&quot;&gt;Basic Markdown Formatting&lt;/h2&gt;
+
+&lt;h3 id=&quot;headings&quot;&gt;Headings&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# This is an &amp;lt;h1&amp;gt; tag
+## This is an &amp;lt;h2&amp;gt; tag
+### This is an &amp;lt;h3&amp;gt; tag
+#### This is an &amp;lt;h4&amp;gt; tag
+##### This is an &amp;lt;h5&amp;gt; tag
+###### This is an &amp;lt;h6&amp;gt; tag
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;emphasis&quot;&gt;Emphasis&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This text will be italic&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This will also be italic&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This text will be bold&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This will also be bold&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You &lt;strong&gt;can&lt;/strong&gt; combine them&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Inordered:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* Milk
+* Bread
+    * Wholegrain
+* Butter
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Milk&lt;/li&gt;
+  &lt;li&gt;Bread
+    &lt;ul&gt;
+      &lt;li&gt;Wholegrain&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Butter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Ordered:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. Tidy the kitchen
+2. Prepare ingredients
+3. Cook delicious things
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tidy the kitchen&lt;/li&gt;
+  &lt;li&gt;Prepare ingredients&lt;/li&gt;
+  &lt;li&gt;Cook delicious things&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![Alt Text](url)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/v8IVDka.jpg&quot; alt=&quot;m'lady&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[link](http://example.com)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;As Kanye West said:
+
+&amp;gt; We're living the future so
+&amp;gt; the present is our past.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;As Kanye West said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We’re living the future so
+the present is our past.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;horizontal-rules&quot;&gt;Horizontal Rules&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Indenting by 4 spaces will turn an entire paragraph into a code-block.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;reference-lists--titles&quot;&gt;Reference Lists &amp;amp; Titles&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;**The quick brown [fox][1], jumped over the lazy [dog][2].**
+
+[1]: https://en.wikipedia.org/wiki/Fox &quot;Wikipedia: Fox&quot;
+[2]: https://en.wikipedia.org/wiki/Dog &quot;Wikipedia: Dog&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The quick brown &lt;a href=&quot;https://en.wikipedia.org/wiki/Fox&quot; title=&quot;Wikipedia: Fox&quot;&gt;fox&lt;/a&gt;, jumped over the lazy &lt;a href=&quot;https://en.wikipedia.org/wiki/Dog&quot; title=&quot;Wikipedia: Dog&quot;&gt;dog&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;escaping&quot;&gt;Escaping&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;\*literally\*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;*literally*&lt;/p&gt;
+
+&lt;h3 id=&quot;embedding-html&quot;&gt;Embedding HTML&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;button class=&quot;button-save large&quot;&amp;gt;Big Fat Button&amp;lt;/button&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;&lt;button class=&quot;button-save large&quot;&gt;Big Fat Button&lt;/button&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;advanced-markdown&quot;&gt;Advanced Markdown&lt;/h2&gt;
+
+&lt;p&gt;Note: Some syntax which is not standard to native Markdown. They’re extensions of the language.&lt;/p&gt;
+
+&lt;h3 id=&quot;strike-throughs&quot;&gt;Strike-throughs&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;~~deleted words~~
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;deleted words&lt;/del&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;automatic-links&quot;&gt;Automatic Links&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;https://ghost.org
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;https://ghost.org&lt;/p&gt;
+
+&lt;h3 id=&quot;markdown-footnotes&quot;&gt;Markdown Footnotes&lt;/h3&gt;
+
+&lt;p&gt;Work in &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The quick brown fox[^1] jumped over the lazy dog[^2].
+
+[^1]: Foxes are red
+[^2]: Dogs are usually not red
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;p&gt;The quick brown fox&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; jumped over the lazy dog&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;github-flavored-markdown&quot;&gt;GitHub Flavored Markdown&lt;/h2&gt;
+
+&lt;h3 id=&quot;syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fancyAlert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;facebox&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;#foo&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;task-lists&quot;&gt;Task Lists&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- [x] @mentions, #refs, [links](), **formatting**, and &amp;lt;del&amp;gt;tags&amp;lt;/del&amp;gt; supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Result:&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;@mentions, #refs, &lt;a href=&quot;&quot;&gt;links&lt;/a&gt;, &lt;strong&gt;formatting&lt;/strong&gt;, and &lt;del&gt;tags&lt;/del&gt; supported&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;list syntax required (any unordered or ordered list supported)&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;this is a complete item&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;this is an incomplete item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;You can create tables by assembling a list of words and dividing them with hyphens &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt; (for the first row), and then separating each column with a pipe &lt;code class=&quot;highlighter-rouge&quot;&gt;|&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;First Header | Second Header | Third Header |
+------------ | ------------- ----------------
+Content from cell 1 | Content from cell 2 | Content from cell 3 |
+Content in the first column | Content in the second column | Content in the third column |
+Content in the forth row A | Content in the forth row B | Content in the forth row C |
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;First Header&lt;/th&gt;
+      &lt;th&gt;Second Header&lt;/th&gt;
+      &lt;th&gt;Third Header&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Content from cell 1&lt;/td&gt;
+      &lt;td&gt;Content from cell 2&lt;/td&gt;
+      &lt;td&gt;Content from cell 3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Content in the first column&lt;/td&gt;
+      &lt;td&gt;Content in the second column&lt;/td&gt;
+      &lt;td&gt;Content in the third column&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Content in the forth row A&lt;/td&gt;
+      &lt;td&gt;Content in the forth row B&lt;/td&gt;
+      &lt;td&gt;Content in the forth row C&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;http://blog.ghost.org/markdown/&lt;/li&gt;
+  &lt;li&gt;https://guides.github.com/features/mastering-markdown/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Foxes are red &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Dogs are usually not red &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Eric F.</name></author><category term="Example Posts" /><category term="Jekyll" /><category term="Markdown" /><summary type="html">Philosophy:</summary></entry><entry><title type="html">Getting Unstuck for Creatives</title><link href="http://localhost:4000/getting-unstuck" rel="alternate" type="text/html" title="Getting Unstuck for Creatives" /><published>2020-10-30T00:00:00+01:00</published><updated>2020-10-30T00:00:00+01:00</updated><id>http://localhost:4000/getting-unstuck</id><content type="html" xml:base="http://localhost:4000/getting-unstuck">&lt;h2 id=&quot;taking-a-novel-approach-to-life-and-breaking-routines&quot;&gt;Taking a novel approach to life and breaking routines.&lt;/h2&gt;
+
+&lt;p&gt;Okay, let’s be real. I’ve found myself totally trapped in the habitual daily acts that’ve sprung up thanks to COVID-19, and I’m sure that I’m not alone in that. The lack of travelling different places, meeting new people, having &lt;em&gt;any&lt;/em&gt; sort of stimuli apart from our dreaded screens can get &lt;em&gt;beyond&lt;/em&gt; boring and frustrating.&lt;/p&gt;
+
+&lt;p&gt;This isn’t anything new, though. This feeling is the inevitable byproduct of repetitive work. Feeling stuck and on auto-pilot is triggered by repetitive work, and almost all of us, regardless of our occupation, engage in repetitive work.&lt;/p&gt;
+
+&lt;p&gt;Here are a few small ideas to break out of that monotony, at least for a little while, particularly for those with a hungry, creative mind.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Be mindful of input versus output.&lt;/strong&gt; Our general consumption is an important, often overlooked factor when talking about getting stuck. What kind of input are you currently engaged in? What are you feeding your creative monster?&lt;/p&gt;
+
+&lt;p&gt;Most of our days are spent in &lt;em&gt;output mode&lt;/em&gt;, the business of making what we make. Whether it’s spreadsheets or ad campaigns, we typically give much more than we typically take. Being so focused on what we output that we forget to fill our creative tank as well.&lt;/p&gt;
+
+&lt;p&gt;To combat this, engage in some form of inspirational or educational input like reading books, watching movies, or listening to music. Try thumbing through a magazine you’ve never heard of before, or attending a concert for a new band that you’re unfamiliar with!&lt;/p&gt;
+
+&lt;p&gt;Choose topics that you’re interested in, even if those topics aren’t directly related to your daily work. Seek out what inspires you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Wander outside for awhile.&lt;/strong&gt; Author Roman Payne had this to say about people:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A person does not grow from the ground like a vine or a tree, one is not part of a plot of land. Mankind has legs so it can wander.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You need to purposely wander and engage in new experiences, and then bring them back to your normal lives to burn when you need them. The mistake that we often make is believing that those experiences require considerable time and effort–but this isn’t true.&lt;/p&gt;
+
+&lt;p&gt;If you leave small spaces in your daily calendar, you can have a plethora of new experiences waiting for you when you need them. It’s completely safe to get away from your desk and experiencing something new with a short walk.&lt;/p&gt;
+
+&lt;p&gt;Keep a new experience journal, either on your smartphone or in a notebook. Separate the listings into four categories: break, lunch, day, and weekend. Start by documenting new experience you’d like to have if you had any of those four time increments available.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Be mindful of patterns (or, your routines).&lt;/strong&gt; Your world has changed and it changes every day. Despite this, you consciously or subconsciously create routine in your life.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;What actions or behaviours do you repeatedly make?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Write down your daily, weekly, and monthly routines on a piece of paper. Once you’ve identified them, make a conscious effort to change one each day, each week, and each month.&lt;/p&gt;
+
+&lt;p&gt;You can simply engage in that change for a day and then return to your regularly scheduled program, but do so purposefully and then move on to a different routine.&lt;/p&gt;
+
+&lt;p&gt;In doing so, you’re training yourself to be more alert and before long you’ll start to see opportunities you may have otherwise missed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Play!&lt;/strong&gt; Very few people who are active participants in some aspect of play report problems with getting stuck. Having fun and playing games should be a natural part of your creative process and an integral part of your creative growth.&lt;/p&gt;
+
+&lt;p&gt;But few know how to make play work. One way is to use design thinking to create play. In short, try becoming a game maker.&lt;/p&gt;
+
+&lt;p&gt;In the context of a creative endeavour, game-making takes on a slightly more purposeful goal: turn everyday tasks into games. A game needs a goal and restrictions. The goal defines the end of the game and the restrictions define the rules and behaviours.&lt;/p&gt;
+
+&lt;p&gt;Take an everyday mundane task that you have to do: Set the goal and the &lt;em&gt;restrictions&lt;/em&gt; of that activity. The trick to turning everyday tasks into games is to either alter the goal or your limitations.&lt;/p&gt;
+
+&lt;p&gt;Try your hand at adding little milestone achievements, or recruit other players. In reality, the art of TK gamification can be applied to any task, and you’ll start seeing your everyday routines in a new light.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Busy Hands &lt;em&gt;aren’t&lt;/em&gt; the Devil’s Plaything.&lt;/strong&gt; Get handy. It may not seem logical, but studies have shown that the mind is more engaged in problem-solving activities when the hands are active.&lt;/p&gt;
+
+&lt;p&gt;Simply put, you think better when your hands are busy.&lt;/p&gt;
+
+&lt;p&gt;It seems counter-intuitive to engage in what seems like a distraction in order to attempt to deter distraction, but if you give your hands something to do while your mind is working, you’re less likely to pour precious thought into doing something else.&lt;/p&gt;
+
+&lt;p&gt;Fill your workspace with hands-on materials to play with. Try bringing in markers, Play-Doh, Legos, pipe cleaners, rubber bands, paper clips, clothespins, and paper cups so there’s always something for you to make or build. Don’t worry about making something recognizable, just let whatever manifests happen.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The act of creation happening with your hands is meant to mirror the act of creation happening in your brain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Doodling is another form of this hand-mind connection. The misconception about doodling is that it’s mindless, but in fact, doodling is the result of a very active mind. When you doodle, you give your brain something to process, so it allows you to simultaneously process other ideas because your hands are doing most of the heavy lifting. So try amplifying your doodling.&lt;/p&gt;
+
+&lt;p&gt;Leave pads of blank paper nearby and doodle while you generate ideas or talk on the phone. Keeping your hands busy frees the mind to find creative solutions to problems.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Sure, for the most part we’re all stuck inside and don’t have a lot of flexibility with our setting or time, but there’s always something new to do if you look hard enough.&lt;/p&gt;
+
+&lt;p&gt;Take in more inspiration, mindfully wander outside, carefully analyze the routines you have set in place, turn the tasks that you do into games, and don’t be afraid to create more just for the sake of it!&lt;/p&gt;</content><author><name>Reid Doe</name></author><category term="How-To" /><category term="Creativity" /><category term="Inspiration" /><category term="Habits" /><summary type="html">Taking a novel approach to life and breaking routines.</summary></entry><entry><title type="html">6 Ways to Achieve New Things</title><link href="http://localhost:4000/six-ways-to-achieve-new-things" rel="alternate" type="text/html" title="6 Ways to Achieve New Things" /><published>2020-10-29T00:00:00+01:00</published><updated>2020-10-29T00:00:00+01:00</updated><id>http://localhost:4000/six-ways-to-achieve-new-things</id><content type="html" xml:base="http://localhost:4000/six-ways-to-achieve-new-things">&lt;blockquote&gt;
+  &lt;p&gt;Getting back on your horse, no matter how many times you’ve fallen off.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;project-journal-bar&quot;&gt;Project Journal Bar&lt;/h3&gt;
+
+&lt;p&gt;In &lt;a target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; href=&quot;https://medium.com/@brennanbrown/goal-failure-bc3a39a0f418&quot;&gt;my last post&lt;/a&gt;, I talked about the struggles and failures I’ve faced the past few years. I’ve been thinking about how to tackle my short-comings and problems to solve a single, relatively-simple issue that’s plagued me nearly my entire life: consistency in my work ethic.&lt;/p&gt;
+
+&lt;p&gt;There needs to be more hand-holding involved — change does not come quickly nor simply. So I’ve devised an entirely new project for myself: &lt;a href=&quot;https://journal.bar/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;&lt;strong&gt;Journal Bar&lt;/strong&gt;&lt;/a&gt;. This is a new blog that I’ve made where I’m going to be posting about the progress I’ve been making weekly. The (very simple) ingenious part is that I’m &lt;a href=&quot;https://www.beeminder.com/brennanbrown/journalbar&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;tracking the posts&lt;/a&gt; I write.&lt;/p&gt;
+
+&lt;p&gt;So, this is a sort of &lt;em&gt;meta-accountability&lt;/em&gt; experiment. Having a goal that’s in charge of making sure I keep on-track with all of my other goals. The idea behind this is so simple that I’m kicking myself for not thinking about it sooner.&lt;/p&gt;
+
+&lt;p&gt;This idea and the progress I’ve made is very new, but I feel as though I’m going slowly enough to ensure that I don’t fizzle out quickly and lose interest or energy for it. In addition to keeping track of my progress, I’ve also elected to use the blog as a space to write rough ideas that I’ll want to implement into articles later.&lt;/p&gt;
+
+&lt;p&gt;Going through the whole Beeminder process again opened my eyes to a few things that I believe will be helpful regarding perseverance with long-term results:&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;1-be-anti-circle&quot;&gt;&lt;b&gt;1. Be Anti-Circle&lt;/b&gt;&lt;/h2&gt;
+
+&lt;p&gt;It’s said that the definition of insanity is doing the same thing over and over again, but expecting different results. I was sifting through old text files on Dropbox, some all the way back from 2015 when I was back in high school, and I embarrassingly realized that there were certain goals there that I &lt;em&gt;still&lt;/em&gt; had been writing down for 2020.&lt;/p&gt;
+
+&lt;p&gt;There are times where you need be ruthless and cut-throat with your dreams. There are certain large-scale ambitions that require so much time and energy that you won’t be able to balance them with other things, and they’ll be put on the backburner — over and over again. No matter how many times you tell yourself (or others) that you’re going to start working on it soon, you never really get past the beginning stage.&lt;/p&gt;
+
+&lt;p&gt;Instead, look at what you &lt;em&gt;are&lt;/em&gt; capable of, right now, with the abilities you have. Keep going with it, build upon what works. Make sure your to-do list isn’t the same thing everyday, make sure your New Year’s resolutions aren’t the same every year. If it’s not working, do something different, don’t run around in circles.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-eliminate-redundancy&quot;&gt;2. Eliminate Redundancy&lt;/h2&gt;
+
+&lt;p&gt;The paradox of choice that we have regarding how exactly we keep track of ourselves and our goals can be crippling. There are certain notes I have on Dropbox, or on Google Drive, or just on my iPhone, or locally on my laptop.&lt;/p&gt;
+
+&lt;p&gt;This problem isn’t eliminated if you switch to an analogue system either — you can have ideas and lists scattered between different planners, pocket notebooks, bullet journals, etc.&lt;/p&gt;
+
+&lt;p&gt;It’s easy to get caught up in using different software (particularly if it’s mandated by school or work) and not notice that you’re slowly creating a schism in your workflow.&lt;/p&gt;
+
+&lt;p&gt;Again, be ruthless and cut-throat, eliminate apps and notebooks that you don’t &lt;em&gt;really&lt;/em&gt; need to be using. Boil everything down to the bare essential, just one place that might not be perfect, but at least contains everything so you aren’t repeating yourself or losing track.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-maintain-product-agnosticism&quot;&gt;3. Maintain Product Agnosticism&lt;/h2&gt;
+
+&lt;p&gt;It’s easy to argue that one particular brand or program is superior in some fashion, but in the lightspeed world of venture capitalism, these companies and start-ups can &lt;a href=&quot;https://ourincrediblejourney.tumblr.com/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;disappear in an instance&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Don’t allow yourself to get too comfortable using one particular thing. In fact, you should ideally using so5. Microreminders for Microgoalsmething that’s c&lt;a href=&quot;https://alternativeto.net/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;ompletely free, doesn’t require internet access, and is stable&lt;/a&gt;. If something were to happen to the exclusive product you’re using, it might take a toll on your morale, or even worse, you could lose data.&lt;/p&gt;
+
+&lt;p&gt;At the very least, have a simple, fail-safe system that you &lt;em&gt;archive everything&lt;/em&gt; on. Whether it be a VCS repository, a USB drive, or a secondary laptop with a text editor.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-stack-the-goodness&quot;&gt;&lt;b&gt;4. Stack the Goodness&lt;/b&gt;&lt;/h2&gt;
+
+&lt;p&gt;A simple solution to adding multiple new habits or daily tasks into your life is to build them upon things you already are doing very well and effortlessly. Such as taking the time you brush your teeth at night to think of everything you’re grateful for that’s happened during the day.&lt;/p&gt;
+
+&lt;p&gt;A particularly good example with the current automated systems I have going is this: I track online courses I take (1) and upload the notes I write to a GitHub repository where I track my commits (2), and all of this is tracked as productive time on RescueTime (3). In a way, I’m keeping up three different good habits with a single action — self-directed learning.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-prioritize-passion-over-tradition&quot;&gt;5. Prioritize Passion over Tradition&lt;/h2&gt;
+
+&lt;p&gt;One bad habit I realize I have is that, whenever I feel motivated to try to start working towards a positive progress again, I often do a Google search for “good goals to keep” or “good habits to have”, and I’ve started to realize this does more harm than good.&lt;/p&gt;
+
+&lt;p&gt;You shouldn’t try to accomplish something simply because it’s well-known to be a good thing to accomplish — like running a marathon. It will fail due to the lack of motivation behind it. It’s always far better to have a weird, unconventional goal that you find a genuine passion for deep down within. It doesn’t matter what other people think about this, it never has.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-microreminders-for-microgoals&quot;&gt;6. Microreminders for Microgoals&lt;/h2&gt;
+
+&lt;p&gt;My last suggestion is that the less time and energy something takes to do, then the less time and energy it should take for you to maintain it. It takes a lot of willpower and preparation to start something serious, like exercising three days a week — where you might need to have a community of support and journal weekly to remind yourself why it’s important to keep up.&lt;/p&gt;
+
+&lt;p&gt;On the flip side, it’s a lot easier to do something like start flossing after brushing your teeth, and there should be a smaller and less-intrusive reminder to yourself to do that so it doesn’t feel like an overwhelming chore. Tasks in general are usually far less daunting than what we imagine they are, especially the longer with &lt;em&gt;think&lt;/em&gt; about doing it than actually doing it.&lt;/p&gt;</content><author><name>Tilo Smith</name></author><category term="Goals" /><category term="Habits" /><category term="Inspiration" /><summary type="html">Getting back on your horse, no matter how many times you’ve fallen off.</summary></entry><entry><title type="html">Creating a Contingency Plan</title><link href="http://localhost:4000/creating-a-contingency-plan" rel="alternate" type="text/html" title="Creating a Contingency Plan" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>http://localhost:4000/creating-a-contingency-plan</id><content type="html" xml:base="http://localhost:4000/creating-a-contingency-plan">&lt;h3 id=&quot;failure-is-important&quot;&gt;&lt;b&gt;Failure is Important&lt;/b&gt;&lt;/h3&gt;
+
+&lt;p&gt;Last month, I had the idea to write an article each day for the month. How long did that last? Only five days. No matter how you look at it, that is failure. And it’s not just about the fact I didn’t manage to beat the challenge, it’s more about the principle of the matter. The fact that I failed to keep a promise to myself and others. Why did I let this happen? I think more broadly, it needs to be asked: Why do people do this — so often — in general?&lt;/p&gt;
+
+&lt;p&gt;Before I get into that, though, let’s take a look at the bright side of the situation. I managed to write two longform articles that I’m proud of:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://writingcooperative.com/my-writing-process-4868f986f97f&quot;&gt;https://writingcooperative.com/my-writing-process-4868f986f97f&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The only reason those posts got written was because, for the first time, I had to churn things out. Challenging myself to write each day for a month made me think long-term and plan out a schedule. It made me think of different topics to explore and ideas to experiment with. In the past, I’ve truthfully just written when inspiration struck.&lt;/p&gt;
+
+&lt;p&gt;Not only that, but I joined the &lt;a href=&quot;https://medium.com/creators&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Medium Partner Program&lt;/a&gt; last month as well, which means that I got paid for these stories. It’s the first time I’ve ever been paid for my writing. And seeing that was a wake-up call for me. I was shown that if I put effort into my work and plan things out, then I could make serious side-hustle out of Medium.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;img data-width=&quot;3000&quot; data-height=&quot;2400&quot; src=&quot;https://cdn-images-1.medium.com/max/2560/1*UKfnx1Hgk5RH8DdJoizv7A.jpeg&quot; /&gt; &lt;figcaption class=&quot;wp-caption-text&quot;&gt;&lt;b&gt;Interior View of Drafting Room in ERB&lt;/b&gt; | &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Interior_View_of_Drafting_Room_in_ERB_-_GPN-2000-001447.jpg&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Source&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;
+
+&lt;img data-width=&quot;4000&quot; data-height=&quot;250&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*75f3FyFy5_WnAC4joYEXJQ.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;focusing-on-only-the-important-stuff-is-the-most-valuable-thing-you-can-do-for-yourself&quot;&gt;Focusing on only the important stuff is the most valuable thing you can do for yourself.&lt;/h4&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;em&gt;Summary:&lt;/em&gt;&lt;/b&gt; &lt;em&gt;This article details why failure is a powerful tool for reflection, and necessary part of life. It then goes on to outline a powerful method to plan for future success by cutting out anything that isn’t essential to your own values.&lt;/em&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;figure&gt;
+
+&lt;img data-width=&quot;1291&quot; data-height=&quot;479&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*MU3-ZkfLrUMy6BoG7vhnZA.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;b&gt;That’s why failure is so vital&lt;/b&gt; — it means that you’re going in the right direction. Having a challenge creates a sense of urgency — a fire underneath your ass that pushes you to actually get things done. If you’re constantly comfortable in life, then you aren’t pushing yourself. You’re a plateau on the verge of decline. A lot of intelligent people would say that failure is a needed stepping stone on the path towards success — but I would disagree. They’re more like positive and negative currents of energy — both being equally needed and powerful.&lt;/p&gt;
+
+&lt;p&gt;I have had a lot of failures in life. I’ve made a lot of mistakes that I regret. But all of those actions and consequences have lead me exactly where I am today — with my words in front of your eyes. That’s a powerful thing.&lt;/p&gt;
+
+&lt;p&gt;That’s why I realize I need to try harder. I need to take larger risks and allow myself to be more open and vulnerable. I need to look beyond the day-to-day regime that I have in place. Getting serious not only means potentially profound failure — it also means finding and creating deeper and more meaningful purpose. With this article, I’m taking a step back to just sit and think. To adjust what I’m doing and revise who I am — and with the new year just around the corner, I think there’s no better time.&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img data-width=&quot;1400&quot; data-height=&quot;62&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;creating-a-focalpoint&quot;&gt;&lt;b&gt;Creating a Focal Point&lt;/b&gt;&lt;/h3&gt;
+
+&lt;p&gt;Back to the question I had on-hand: &lt;b&gt;Why do people fail to keep promises they make to themselves?&lt;/b&gt; Sure, I made a compelling argument to the importance of failing at times, but success &lt;em&gt;is&lt;/em&gt; endgame. Human psychology is a murky field still in its infancy, and there are a multitude of reasons why people say one thing then do another. We all have obligations and responsibilities — things that take our time and effort away from what we set out to do idealistically. As a self-improvement junkie, I’ve come across a lot of different answers to this question, and subsequent solutions. In this article, I’d like to contribute my own solution — write yourself a contingency plan.&lt;/p&gt;
+
+&lt;p&gt;What is a contingency plan? It’s defined as: &lt;em&gt;A plan designed to take a possible future event or circumstance into account&lt;/em&gt;. As in, planning for the worst-case scenarios which, according to Murphy’s Law, &lt;em&gt;are&lt;/em&gt; going to happen. Nobody else is going to help you figuring out a way to stay standing when everything else begins to fall apart. There’s no inherent manual for sticking to your goals when your willpower begins to fade.&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img data-width=&quot;2400&quot; data-height=&quot;1514&quot; src=&quot;https://cdn-images-1.medium.com/max/600/1*GO5EtoAdbj4MMIoP7D76Lw.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;p&gt;After reading a lot of literature on the subject, I’ve boiled down what would make a good personal contingency plan into a single sentence: &lt;b&gt;Create a focal point for yourself.&lt;/b&gt; What does that mean? It means: &lt;br /&gt;
+&lt;b&gt;1)&lt;/b&gt; Figure out your values. &lt;br /&gt;
+&lt;b&gt;2)** Make them your first priority. **3)&lt;/b&gt; Cut the rest of the bullshit out of your life. &lt;br /&gt;
+The human mind is an amazingly capable machine, but with so much stimuli, it is spread far too thin. If you were to write out a list of each unique thing you did today — let alone today–you would have dozens of different tasks that require both willpower and brain-power.&lt;/p&gt;
+
+&lt;p&gt;We all have more choices and information in front of us than ever before in human history. It’s far too easy to use the technology and potential knowledge available to us in an unhealthy and unproductive way. There’s an emerging trend of &lt;em&gt;digital detox&lt;/em&gt;, the act of cutting out social media and the internet as a whole from your life. I believe there is merit to this. We all could value from taking some time to sincerely just &lt;em&gt;sit and think.&lt;/em&gt; To hear your own voice instead of being bombarded with the thousands of the online.&lt;/p&gt;
+
+&lt;h4 id=&quot;finding-yourvalues&quot;&gt;Finding Your Values&lt;/h4&gt;
+
+&lt;p&gt;From our own voice, we can hear our own values. What we truly deem as important — not to others — but to just ourselves. How do you do this in practice? Here’s what I suggest:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Clear Your Desk.&lt;/b&gt; Place things elsewhere for a period of time in order to have an empty, workable table.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Airplane Mode.&lt;/b&gt; All devices — even better if they’re put in another room.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Start a timer for 30 min.&lt;/b&gt; Even longer, if you think you’re capable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Sit and Think.&lt;/b&gt; Trap yourself with just a pen and paper.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is a similar process to free-writing as a &lt;a href=&quot;https://betterhumans.coach.me/better-than-meditation-12532d29f6cd&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;meditation&lt;/a&gt;, or a &lt;a href=&quot;https://betterhumans.coach.me/better-than-meditation-12532d29f6cd&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;mind dump&lt;/a&gt;, which I think is an additional important activity to do from time to time. However, this isn’t about figuring out what needs to be done in the next week or month. It’s deeper than that.&lt;/p&gt;
+
+&lt;p&gt;It’s about writing your &lt;b&gt;mission statement — &lt;/b&gt;which I’ll cover in more depth in an upcoming post. &lt;a href=&quot;https://jamesclear.com/buffett-focus&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Warren Buffet has an infamous exercise&lt;/a&gt;, listing the twenty-five things you want to do in life — then cross off everything except the top five. This is what I mean by your focal point — figuring out what you truly want to do — and then figuring out how to do start doing it while cutting out everything else without mercy. Every field of dreams needs a lawnmower.&lt;/p&gt;
+
+&lt;p&gt;In order to create ambitious goals and succeed at them, you need to think beyond 2018. It’s about the next five years — it’s about the rest of your life. Having a purpose — a deep-rooted &lt;b&gt;&lt;em&gt;why&lt;/em&gt;&lt;/b&gt;_ — _connected to the actions you take daily makes it more difficult for you to give up and easier for you to follow-through. It also makes it easier to start again after a failure. This is how to keep the promises that you make to yourself.&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img data-width=&quot;1400&quot; data-height=&quot;62&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;my-contingency-plan&quot;&gt;&lt;b&gt;My Contingency Plan&lt;/b&gt;&lt;/h3&gt;
+
+&lt;p&gt;As per usual, I enjoy displaying how I personally use the information that I find myself writing about for others. Unlike a lot of other how-to columnists out there, I don’t try to compartmentalize my life from the advice I share. If you are to eat your own dog-food, or in other words, actually set out on the actionable and difficult tasks you preach, then there is a far greater depth to the authenticity that is displayed. With all that being said, here’s what I have devised for my own contingency plan:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Do Good Research.&lt;/b&gt; Before anything else, I need to learn and educate myself on important and complex topics. I believe this is important for both making better sense of the chaotic world I live in, as well as synthesizing a broad range of material into my own work, like this article. The most important thing to learn is &lt;em&gt;how to learn well,&lt;/em&gt; which again, I’ll be covering in a later post.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Create Value for Others.&lt;/b&gt; There is an overwhelming amount of content being created constantly — most of it being taken for granted by the masses. In order to wade through all the noise, there are those that try to market themselves strategically. While there’s nothing wrong with that, no amount of good marketing can replace going through the effort of creating original and valuable work for people. More than that, though, I’m focused on keeping &lt;em&gt;value above the fold.&lt;/em&gt; In other words, have the most important information at the beginning, instead of hiding it away and only giving it away in exchange for personal information, such as an e-mail address.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Stick to a Single Task.&lt;/b&gt; Due to the overwhelming amount of content being created constantly, it’s easier than ever to never truly focus on a single thing for a long stretch of time. And by &lt;em&gt;truly&lt;/em&gt; focus, I mean not stopping every ten minutes to check something else. Putting your nose to the grindstone means absolutely everything else is put on the back-burner, at least for an hour.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Reach Out.&lt;/b&gt; A lot of people view writing as a solitary craft — and it is. But even then, community is everything. The entire idea of Medium is to have an established community of talented people that create good work that deserves discussion and feedback. Having others hold you accountable is far more powerful than trying to hold yourself accountable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Cut the Bullshit.&lt;/b&gt; If I come across something that doesn’t fit in the above four actions, I won’t bother with it. &lt;a href=&quot;https://medium.com/@brennanbrown/our-finite-everything-8ed4d9d70a2f&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Days are too short to let time be wasted.&lt;/a&gt; Attention is too limited and finite to allow for meaningless distractions. The human body is too complex and incredible to allow unhealthy foods or lack of physical activity to occur. Each moment, I need to be mindful of what I’m doing, and if I’m pushing myself towards my goals or pulling myself further away from them.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+
+&lt;img data-width=&quot;1400&quot; data-height=&quot;62&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;summary&quot;&gt;SUMMARY:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Embrace Failure.&lt;/b&gt; Recognize the importance of the path that mistakes and regrets have put you on, and the lessons you’ve been taught. More importantly, allow yourself to be vulnerable enough to walk into challenges where failure is bound to happen.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Have a Plan.&lt;/b&gt; Take a step back from the busywork of the daily schedule and truly think about what you would enjoy doing in the long-term, and figure out how to achieve that. Going a step further, figure out the obstacles in your way and determine how to achieve what you want even amidst a worst-case scenario. This is a personal contingency plan done right.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;em&gt;Credit:&lt;/em&gt;&lt;/b&gt; &lt;em&gt;Hand-drawn Text Ornaments are&lt;/em&gt; &lt;a href=&quot;https://www.freepik.com/index.php?goto=74&amp;amp;idfoto=1256497&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;em&gt;Designs by Freepik&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;img data-width=&quot;2400&quot; data-height=&quot;1800&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png&quot; /&gt;&lt;figcaption class=&quot;wp-caption-text&quot;&gt;&lt;b&gt;Thanks for Reading!&lt;/b&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;a href=&quot;https://writingcooperative.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;img data-width=&quot;1099&quot; data-height=&quot;139&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*eLY7z6NuxjwFyI1T-dwXcQ.png&quot; /&gt;&lt;/a&gt;&lt;figcaption class=&quot;wp-caption-text&quot;&gt;Helping each other write better.&lt;/figcaption&gt;&lt;/figure&gt;</content><author><name>Yui Doe</name></author><category term="Guides" /><category term="Planning" /><category term="Productivity" /><category term="Writing" /><summary type="html">Failure is Important</summary></entry><entry><title type="html">My Writing Process</title><link href="http://localhost:4000/my-writing-process" rel="alternate" type="text/html" title="My Writing Process" /><published>2020-10-27T00:00:00+01:00</published><updated>2020-10-27T00:00:00+01:00</updated><id>http://localhost:4000/my-writing-process</id><content type="html" xml:base="http://localhost:4000/my-writing-process">&lt;h2 id=&quot;five-steps-to-go-from-brainstorming-to-completed-work&quot;&gt;Five Steps to Go From Brainstorming to Completed Work&lt;/h2&gt;
+
+&lt;p&gt;&lt;span&gt;L&lt;/span&gt;et’s get down to the bare bones to start with: Prepare yourself and focus. Brainstorm and allow yourself to have bad ideas. Outline a thesis. Draft and edit. Cut the non-essential. Now, let’s expand on these ideas…&lt;/p&gt;
+
+&lt;p&gt;Today is the third day of November. For some of the day, I’ve been trying to craft a new article to publish. For the large majority though, I’ve just been trying to find new and creative ways to procrastinate!&lt;/p&gt;
+
+&lt;p&gt;The first day I wrote about how I’m rebelling against NaNoWriMo this year. &lt;a href=&quot;https://medium.com/@brennanbrown/why-i-write-e425cdda0e10&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Yesterday&lt;/a&gt;, I wrote about &lt;em&gt;why&lt;/em&gt; I write — a bit of the philosophical and bigger-picture sort of thinking.&lt;/p&gt;
+
+&lt;p&gt;Today, I thought I might as well keep on the same topic and talk about the &lt;em&gt;how&lt;/em&gt; I write. To detail how exactly to go from a simple and disorderly idea to a completed and coherent article.&lt;/p&gt;
+
+&lt;p&gt;There are many steps to this process — from brainstorms to an outline, from drafting to revisions, until you have something publishable.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;img data-width=&quot;3000&quot; data-height=&quot;2250&quot; src=&quot;https://cdn-images-1.medium.com/max/2560/1*xdeHxfY_NPhNrbAi6OunKw.jpeg&quot; /&gt; &lt;figcaption class=&quot;wp-caption-text&quot;&gt;&lt;b&gt;Antique Blank&lt;/b&gt; | &lt;a href=&quot;https://www.pexels.com/photo/antique-blank-camera-classic-269810/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Source&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;an-aside-goodwriting&quot;&gt;An Aside: GOOD WRITING?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“All good writing is swimming under water and holding your breath.” &lt;br /&gt;
+— F. Scott Fitzgerald&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Writing is a mysterious and elusive artform. Whether it’s technical, creative, or copy — good writing contains something that cannot be taught. A balance needs to be struck between the formless idea and the formulaic structure.&lt;/p&gt;
+
+&lt;p&gt;The idea — the actual content — needs to be exciting and novel. But if the presentation — the display and perception of that content — isn’t also good, then the idea will largely be lost. Yet, if the idea is lacking, then no amount of amazing presentation can salvage it.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-preparation-focus&quot;&gt;1. PREPARATION: Focus&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A winning effort begins with preparation.” &lt;br /&gt;
+— Joe Gibbs&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span&gt;D&lt;/span&gt;istraction is the worst offender for writing that’s never completed — and often times writing that isn’t even started. Identify and eliminate potential distractions before you begin. Ensure you don’t allow yourself to procrastinate by dealing with them when they arrive.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Be relaxed.&lt;/b&gt; Don’t plunge into writing if you’re stressed about a million other things. If you really want to churn out two-thousand words in a single sitting, it has to be your number one priority. Stress also negatively impacts your physical and mental health, which are vital as well. So &lt;a href=&quot;https://familydoctor.org/hydration-why-its-so-important/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;stay hydrated&lt;/a&gt; — have a water bottle handy while you write.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Take a look at your surroundings&lt;/b&gt; — create a private workspace. Have music that you enjoy but won’t distract you. I personally love certain background noise, &lt;a href=&quot;https://www.noisli.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Noisli&lt;/a&gt; has a ton of different options. Nearby plants are also always a bonus, and &lt;a href=&quot;https://www.theguardian.com/money/2014/aug/31/plants-offices-workers-productive-minimalist-employees&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;studies have shown&lt;/a&gt; they increase happiness and productivity!&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Communicate your availability to others&lt;/b&gt; before you get into the &lt;a href=&quot;https://blog.evernote.com/blog/2017/02/23/deep-work-matters-distracted-world/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;deep work of writing&lt;/a&gt;. Have a do-not-disturb sign, send out an e-mail or mark on your calendar that you’ll be unavailable.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Unplug and disconnect.&lt;/b&gt; The research phase of writing is the only time you should be using the Internet. Use an offline word processor, or write by hand. Keep things more traditional — for linguistics, have a dictionary and thesaurus on hand.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-brainstorm-bad-ideas--noideas&quot;&gt;2. BRAINSTORM: Bad Ideas &amp;gt; No Ideas.&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The way to get good ideas is to get lots of ideas and throw the bad ones away.”&lt;br /&gt;
+— Linus Pauling&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;b&gt;Go on an idea sprint.&lt;/b&gt; If a good idea is key to good writing, how do you obtain good ideas? Perseverance. Set up a specific time each day and set a timer, force yourself to come up with a dozen unique ideas. Some are going to be bad. Most are going to be bad. But a bad idea is far better than no idea at all. You can still work with a bad idea. You can still write about a bad idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Find novel stimuli for yourself.&lt;/b&gt; Brainstorming is a mental muscle. No great writer waited for a mystic surge of inspiration before beginning. There needs to be an active search for it. Write in different places and environments. Write about topics you’ve never written about before.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Seek inspiration elsewhere.&lt;/b&gt; Look at what other people are blogging about. Don’t be afraid to use their work as inspiration — they’ll take it as a compliment. I came up with the idea of one of my &lt;a href=&quot;https://medium.com/@brennanbrown/zen-of-housekeeping-cfd37efb744d&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;favorite articles&lt;/a&gt; from reading someone else’s. Use &lt;a href=&quot;https://www.thesitsgirls.com/writing-prompts/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;prompts and 30-day challenges&lt;/a&gt;. The main point is to just get the ball rolling — a good idea is far more likely to appear if the &lt;a href=&quot;https://medium.com/@brennanbrown/the-best-time-to-start-a-new-year-s-resolution-is-right-now-ffdd389fbf01&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;canvas isn’t blank&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-outline-craft-athesis&quot;&gt;3. OUTLINE: Craft a Thesis&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.” &lt;br /&gt;
+―Abraham Lincoln&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;b&gt;Outline first.&lt;/b&gt; Once you’re satisfied with the idea you’re going to be working with, it might be tempting to plunge right into writing by the seat of your pants. However, this will only create more work in the future. Having an outline written will save you time.You won’t be constantly second-guessing yourself — and more importantly, losing focus on the topic at-hand.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Craft the main thesis.&lt;/b&gt; Make it abundantly clear to the readers what that thesis is. Then, start carving out different sections, which can then be broken down further into paragraphs. Determine your supporting content — what will help you get your main point across.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Set goals.&lt;/b&gt; Take a moment to decide who your ideal audience is. What are they gaining by your writing? The key to goal-setting in writing is relevancy — how will what you create be relevant to others? Take note of what feelings you think your work should invoke.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-drafting-editing&quot;&gt;4. DRAFTING &amp;amp; EDITING&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“An architect’s most useful tools are an eraser at the drafting board, and a wrecking bar at the site.” &lt;br /&gt;
+— Frank Lloyd Wright&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;b&gt;Write inside-out.&lt;/b&gt; Don’t try to write the introduction first, it’s always the hardest part. Instead, go through your outline and pick the section you’d think would be easiest to write, and keep going from there.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Write in sprints&lt;/b&gt; — set a timer and don’t stop writing until it ends. Don’t sweat about grammar, spelling, or word-choice. Try to write about one concept per sprint.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Try out different headlines.&lt;/b&gt; Your work should drive the headlines you use, not the other way around. They shouldn’t hold up the rest of the writing, either. They don’t have to be perfect, and you might want to change them after publishing. Avoid trying to linger titles in mystery or fear-mongering — people have options, not time. Any headline you use should be able to stand on its own, though, in case it gets pulled to another website.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Make what you’re writing clear &lt;/b&gt;— clean up the mud and muck. Group ideas logically. Don’t use two words when one will do — there’s no reason to bloat your work for the word count. Use the active voice as much as possible, and subsequently avoid using the passive voice. Avoid clichés and any other boring or overused language.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;The reader is not an algorithm.&lt;/b&gt; Don’t try to game the system with writing that exploits search-engine optimization or any other such nonsense.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Organize and edit first&lt;/b&gt;, then proofread. A good proofreading trick is to read the entire thing out-loud. A good spell-checking trick is to read the entire thing backwards.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Edit, edit, edit.&lt;/b&gt; When editing, don’t try to attempt to do an entire rewrite, instead, do a high-level editorial. Improve without restructuring.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Be mindful of the ending.&lt;/b&gt; The conclusion should invite an interaction with the reader. The internet empowers an open and free line of communication between the reader and the writer. Or, point them to other helpful resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Review a few more times&lt;/b&gt;, just in case. Asking peers for their feedback is always a great idea as well. Then, utilize grammar tools. I personally enjoy using the &lt;a href=&quot;https://www.hemingwayapp.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Hemingway&lt;/a&gt; application, but take its suggestions with a grain of salt. Applications and spell-checkers never catch 100% of errors made, anyways.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-chopping-beruthless&quot;&gt;5. CHOPPING: Be Ruthless&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Less is more.” &lt;br /&gt;
+— Ludwig Mies van der Rohe&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;b&gt;The Internet is chock-full of information.&lt;/b&gt; It is also already full of people that want their voices to be heard, and their content to be seen. There has never been such a greater amount of salesmen as there are right now in front of your screen. Everybody is trying to sell something — we live in capitalistic society, after all.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Five-second rule.&lt;/b&gt; It takes roughly 2-to-6 seconds to convince a person to stay once they’ve started reading. That’s it. Have something incredible within that incredibly short window of time. Put the most important and interesting information first. Remove long introductions, word-heavy descriptions, and any other &lt;a href=&quot;https://thewritepractice.com/purple-prose/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;purple prose&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Craft the first paragraph carefully.&lt;/b&gt; Because people decide if they’re going to read something so quickly, the first paragraph is the most important one. The reader needs to be drawn in. Ask a question, and then answer somewhere else in the post. Be fearless of the controversial, and state something bold. Note an interesting fact or statistic (with proper reference, of course).&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Make work scannable, too.&lt;/b&gt; Most people don’t begin reading until they’ve skimmed or scrolled. Use plenty of headings, and bullet-point lists.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Whitespace is your best friend.&lt;/b&gt; Too much text strains the eye. Watch out for wordy sentences, or lengthy paragraphs, or too many paragraphs without some sort of break.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Be clear and concise.&lt;/b&gt; Functional and pragmatic. Distill your message into the smallest amount of words possible. Short is memorable. If it’s easy to digest, it’s easy to share.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Be ruthless.&lt;/b&gt; After your first draft is complete, take a pause. Then, return and cut the word count in half.&lt;/p&gt;</content><author><name>Brennan K. Brown</name></author><category term="Guides" /><category term="Productivity" /><category term="Planning" /><category term="Writing" /><summary type="html">Five Steps to Go From Brainstorming to Completed Work</summary></entry><entry><title type="html">Disrupting the Attention-based Economy</title><link href="http://localhost:4000/disrupting-the-attention-based-economy" rel="alternate" type="text/html" title="Disrupting the Attention-based Economy" /><published>2020-10-26T00:00:00+01:00</published><updated>2020-10-26T00:00:00+01:00</updated><id>http://localhost:4000/disrupting-the-attention-based-economy</id><content type="html" xml:base="http://localhost:4000/disrupting-the-attention-based-economy">&lt;p&gt;When you wake up in the morning and get out of bed — or even before you get out of bed — what’s the first thing that grabs your attention? Whatever it is, it’s going to be responsible for your first thoughts of the day. Throughout the rest of your day, you’ll be faced with a bombardment of distractions that will grab your awareness away from what you’re doing.&lt;/p&gt;
+
+&lt;p&gt;We live in an &lt;a href=&quot;https://techcrunch.com/2017/07/30/the-attention-economy-created-by-silicon-valley-is-bankrupting-us/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;attention-based economy&lt;/strong&gt;&lt;/a&gt;. Companies and people can only sell you products and services if they first have your attention, after all. This is nothing new, but with the rise of clever marketing statics (ex. Data-collection, branded content, personalized advertisements, etc.) most people are often being sold things without even realizing it.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;img data-width=&quot;1024&quot; data-height=&quot;768&quot; src=&quot;https://cdn-images-1.medium.com/max/2560/1*wm509xrohy46UG3caEwsWQ.png&quot; /&gt; &lt;figcaption class=&quot;wp-caption-text&quot;&gt;&lt;b&gt;New Office&lt;/b&gt; | &lt;a href=&quot;https://www.flickr.com/photos/philliecasablanca/3344142642&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Source&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;figure&gt;
+
+&lt;img data-width=&quot;4000&quot; data-height=&quot;250&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*75f3FyFy5_WnAC4joYEXJQ.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;stop-being-easily-swayed-by-anything-thats-in-front-of-you-start-living-a-value-based-lifestyle&quot;&gt;Stop being easily swayed by anything that’s in front of you. Start living a value-based lifestyle.&lt;/h2&gt;
+
+&lt;figure&gt;
+
+&lt;img data-width=&quot;1400&quot; data-height=&quot;62&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;p&gt;By way of technology, there have been &lt;a href=&quot;https://www.privacytools.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;privacy tools and blockers&lt;/a&gt; created as a way to negate these tactics. However, this is a band-aid solution to a deeper, fundamental problem of society.&lt;/p&gt;
+
+&lt;p&gt;This goes beyond the exploits of current revenue models. People easily get caught up paying attention to things that just drain them of their energy. Time and energy wasted on toxicity — reaction instead of action. It is easy to blame advancements in technology and platforms for this, but the uncomfortable truth is that it is a human problem.&lt;/p&gt;
+
+&lt;p&gt;There is little we are able to control in life. We cannot control the behavior or actions of others — and we cannot control what’s going to be in today’s news — but we can control ourselves.&lt;/p&gt;
+
+&lt;p&gt;If attention is the currency of our modern economy, then our pockets are full at the start of each day. Absolutely nobody can dictate what you spend your time thinking about — no matter how hard they try. Bringing power back to the consumer, then, is simple. The solution is to stop consuming.&lt;/p&gt;
+
+&lt;p&gt;This is, of course, far easier said than done. There is a heavy weight of responsibility on our collective shoulders — but it is not an impossible burden to lift. The ability to overhaul this system will come from forming a meritocratic community. To begin our dialogue and actions on the basis of a value-based philosophy instead of an attention-based one.&lt;/p&gt;
+
+&lt;p&gt;What does this mean, exactly? Start with the fundamentals — what do you value in life? &lt;a href=&quot;https://www.success.com/article/how-to-write-your-personal-mission-statement&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;What is your self-imposed purpose?&lt;/a&gt; These are not easy questions to answer, but again, they’re not impossible. Often times, exactly because of the everyday distractions and white noise that nags at us, we find ourselves too busy to stop and think about these kinds of questions.&lt;/p&gt;
+
+&lt;p&gt;Contrary to what you might think, things become far simpler when you truly know what you want out of life and yourself. When you raise your expectations and cut out everything that isn’t actually necessary for you to be happy.&lt;/p&gt;
+
+&lt;p&gt;Forge an identity for yourself out of your passion and who you want to become. Use your attention for good — learn new things, create something, help your community, spend time relaxing by doing things you truly love to do instead of mindlessly scrolling through the Internet for a lukewarm buzz.&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img data-width=&quot;1200&quot; data-height=&quot;600&quot; src=&quot;https://cdn-images-1.medium.com/max/1200/1*0rrraKR-9n9PmtrtsDemYg.png&quot; /&gt;  
+&lt;/figure&gt;
+
+&lt;p&gt;There is beauty in getting used to the uncomfortable. People &lt;a href=&quot;https://www.theguardian.com/media/2017/feb/02/amusing-ourselves-to-death-neil-postman-trump-orwell-huxley&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;constantly search out entertainment&lt;/a&gt; simply because we’ve become so unused to &lt;a href=&quot;https://www.npr.org/sections/alltechconsidered/2015/01/12/376717870/bored-and-brilliant-a-challenge-to-disconnect-from-your-phone&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;boredom and being bored&lt;/a&gt;. The modern mind is restless and uneasy — always looking for a distraction — and this is explicitly why the attention-based economy has been able to do so well.&lt;/p&gt;
+
+&lt;p&gt;In all honesty, this approach to life is far more difficult. The human brain is designed to sleepwalk into habits and routines and to tread the path of least resistance. Mindfulness needs to be developed, as well as gratitude — we’re conditioned to think we don’t have enough and need to seek out more — even though we most often &lt;a href=&quot;https://markmanson.net/everything-you-need&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;already have everything that we need&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With the sheer pace of advancement in technology and the changing tides of the world at large, nothing comes close to being predictable anymore. It’s honestly a scary thought to think of the path we’re headed down if people continue to allow themselves to be easily swayed and dependent on entertainment. A serious and long pause needs to be taken. By everybody.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;img data-width=&quot;2400&quot; data-height=&quot;1800&quot; src=&quot;https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png&quot; /&gt;&lt;figcaption class=&quot;wp-caption-text&quot;&gt;&lt;b&gt;Thanks for Reading!&lt;/b&gt;&lt;/figcaption&gt;&lt;/figure&gt;</content><author><name>Brennan K. Brown</name></author><category term="Essays" /><category term="Productivity" /><category term="Habits" /><summary type="html">When you wake up in the morning and get out of bed — or even before you get out of bed — what’s the first thing that grabs your attention? Whatever it is, it’s going to be responsible for your first thoughts of the day. Throughout the rest of your day, you’ll be faced with a bombardment of distractions that will grab your awareness away from what you’re doing.</summary></entry><entry><title type="html">The Duality of Purpose and Work</title><link href="http://localhost:4000/the-duality-of-purpose-and-work" rel="alternate" type="text/html" title="The Duality of Purpose and Work" /><published>2020-10-25T00:00:00+02:00</published><updated>2020-10-25T00:00:00+02:00</updated><id>http://localhost:4000/the-duality-of-purpose-and-work</id><content type="html" xml:base="http://localhost:4000/the-duality-of-purpose-and-work">&lt;p&gt;&lt;strong&gt;PART ONE: HAVING FAITH IN GRAND DREAMS.&lt;/strong&gt; Understanding the &lt;em&gt;why&lt;/em&gt; of the work is the most important thing that’s needed when starting out. It’s so easy to become discouraged when you’re in the the thick of the weeds, when you need to do difficult or tedious. Motivation and discipline to do such work comes from having a bigger picture — a purpose.&lt;/p&gt;
+
+&lt;p&gt;This purpose comes from a place of realistic optimism and idealism. It’s a messy and bold goal. A tangible, yet implausible objective without conventional measure or perspective. There’s a lot wrong with the world — and a lot of people that will complain about it — but how can you improve it? What troubles are you willing to tackle head-on for the good of humanity?&lt;/p&gt;
+
+&lt;figure class=&quot;wp-caption&quot;&gt;
+
+&lt;img data-width=&quot;5532&quot; data-height=&quot;3688&quot; src=&quot;https://cdn-images-1.medium.com/max/2560/1*RijfP3sZSfQXb8V_43OzUA.jpeg&quot; /&gt; &lt;figcaption class=&quot;wp-caption-text&quot;&gt;&lt;b&gt;Person Making Clay Pot&lt;/b&gt; | &lt;a href=&quot;https://www.pexels.com/photo/ceramic-artisan-clay-mud-110144/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Source&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;how-to-effectively-go-about-doing-whats-truly-important&quot;&gt;How to effectively go about doing what’s truly important.&lt;/h2&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;It’s a lot to ask, to a point where most people don’t even push themselves to even attempt it. And those that &lt;em&gt;do&lt;/em&gt; attempt to achieve something grand usually stop after failing only once or twice.&lt;/p&gt;
+
+&lt;p&gt;The reason so few people succeed in capturing the essence of a heartfelt purpose is a lack of faith. Having the faith in yourself that you’re truly capable of accomplishing that goal, no matter the obstacles, or opinions, or failures that you will inevitably face. It takes a fair amount of foolishness to ever succeed in accomplishing audacious.&lt;/p&gt;
+
+&lt;p&gt;Don’t back out of a goal as soon as it looks like it’s going to fail — have more trust than doubt. Many people discuss the learning opportunities that reside in failure, but the truth of the matter is that gritting your teeth and persevering and eventually finding success is a far more enriching learning experience.&lt;/p&gt;
+
+&lt;p&gt;It is important to understand the context of where you currently stand in history. Research your contemporaries that have similar goals — especially if they’re currently doing far better than you are. Research the great thinkers and creators of the past, as well. Having this contextual model will not lead you to achievement, but will guide you in the right direction, like a compass.&lt;/p&gt;
+
+&lt;p&gt;At the same time, you must not be rigid with your objectives, either. Do not let pride get in your way — redirect your efforts if you need too. Being agile is far more intelligent than abandoning your efforts altogether and starting from square one.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PART TWO: ELIMINATING EVERYTHING NON-ESSENTIAL.&lt;/strong&gt; Simply understanding what you want to accomplish will not allow you to actually get it done. The &lt;em&gt;what&lt;/em&gt; of work is doing the technical and nitty-gritty, which is the contrary of the initial motivating and lofty goals.&lt;/p&gt;
+
+&lt;p&gt;They both outstandingly require one another. Being only an idealist thinker won’t get anything done. While being only a busy-bee worker won’t get anything &lt;em&gt;meaningful&lt;/em&gt; done.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t matter if you are clueless when you’re first beginning — that’s normal. Mastery of any knowledge or skill requires only deliberate practice and enough time. Be humble enough to absorb the knowledge of everybody around you. Learn to constantly ask critical questions. Be resourceful with the amount of information you can find both locally and &lt;a href=&quot;https://medium.com/@brennanbrown/guide-to-self-learning-7ea651650d11&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Figure out priorities, examine what work needs to be done as opposed to what’s just easy and non-essential filler. The next part is vital: look at your schedule and block out large chunks of time (four to seven hours) where you &lt;em&gt;just work&lt;/em&gt; on what’s most important.&lt;/p&gt;
+
+&lt;p&gt;You cannot allow yourself to be interrupted by others, or distract yourself with the plethora of attention-grabbing media that’s currently at our disposal. This can be extremely difficult at first, but don’t be afraid to communicate with others that you’re busy with something and that you’ll talk to them later.&lt;/p&gt;
+
+&lt;p&gt;Similarly, push yourself to sticking to one tab or application open at a time. Stop yourself from constantly jump from one inquiry to another. Be mindful of how you’re using technology — take a break every once in awhile.&lt;/p&gt;
+
+&lt;p&gt;A lot of people say they simply don’t have the time in their schedules to devote themselves so deeply to something. But the truth of the matter is that even if you have other responsibilities, you can fit this work into your calendar by understanding and eliminating the time you’re currently wasting — because we all waste time.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;CONCLUSION:&lt;/b&gt;&lt;br /&gt;
+I believe we’re all given the opportunity to achieve goodness in the world that’s beyond ourselves — whether it’s in small ways or big ways. We’re all born being good at something — technical or creative — and with an intense curiosity of the world we live in.&lt;/p&gt;
+
+&lt;p&gt;It is far too easy to veer off the path of pioneering, to instead be comfortable with letting life pass us by. I believe that we can make the conscious decision to change that — at any point in our lives — and instead &lt;a href=&quot;https://medium.com/@brennanbrown/our-finite-everything-8ed4d9d70a2f&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;aspire to greatness&lt;/a&gt;. All it takes is a little courage, and a lot of reckless abandon.&lt;/p&gt;</content><author><name>Brennan K. Brown</name></author><category term="Essays" /><category term="Purpose" /><category term="Inspiration" /><summary type="html">PART ONE: HAVING FAITH IN GRAND DREAMS. Understanding the why of the work is the most important thing that’s needed when starting out. It’s so easy to become discouraged when you’re in the the thick of the weeds, when you need to do difficult or tedious. Motivation and discipline to do such work comes from having a bigger picture — a purpose.</summary></entry></feed>
