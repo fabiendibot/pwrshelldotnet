@@ -25,24 +25,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   for stuff around Kubernetes, Azure & PowerShell.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pwrshell.net" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/purelog
+repository: fabiendibot/pwrshelldotnet
 twitter: fadibot
 github: fabiendibot
 
-header_image: assets/profile.png
+header_image: assets/profile.jpg
 
 google_analytics:
 comments: true
 disqus: purelog-jekyll
 
 author: Fabien Dibot
-author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 25-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
-  and I'm looking to help those that need web development work done, or 
-  searching for ideas and management for their next content project.
-author_pic: https://brennanbrown.ca/img/avatar.png
+#author_bio: 
+#author_pic: https://brennanbrown.ca/img/avatar.png
 paginate: 4
 paginate_path: "/:num/"
 
@@ -66,20 +61,20 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Brennan K. Brown
-      avatar: assets/profile-sm.png
+      author: Fabien Dibot
+      avatar: assets/profile-sm.jpg
   - scope:
       path: ""
       type: notes
     values:
       layout: post
       content-type: notes
-  - scope:
-      path: ""
-      type: journals
-    values:
-      layout: journal-entry
-      content-type: journals
+  #- scope:
+  #    path: ""
+  #    type: journals
+  #  values:
+  #    layout: journal-entry
+  #    content-type: journals
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
@@ -90,9 +85,9 @@ collections:
   notes:
     output: true
     permalink: /notes/:title
-  journals:
-    output: true
-    permalink: /journals/:title
+  #journals:
+  #  output: true
+  #  permalink: /journals/:title
 
 # Exclude from processing.
 exclude:
