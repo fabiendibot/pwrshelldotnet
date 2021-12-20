@@ -1,0 +1,25 @@
+I"»<style>
+.category-content a {
+    text-decoration: none;
+    color: #4183c4;
+}
+
+.category-content a:hover {
+    text-decoration: underline;
+    color: #4183c4;
+}
+</style>
+
+<main>
+    
+        <div class="pure-u-1 tags">
+        <h2 id="Welcome">Welcome</h2>
+        
+            <li id="category-content" style="padding-bottom: 0.6em;"><a href="/welcome-to-jekyll">Welcome !</a></li>
+        
+        </div>
+    
+    <br />
+    <br />
+</main>
+:ET
