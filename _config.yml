@@ -23,8 +23,8 @@ email: mail@truc.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place to store all my findings, as I may not the only one looking
   for stuff around Kubernetes, Azure & PowerShell.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pwrshell.net" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/pwrshelldotnet" # the subpath of your site, e.g. /blog
+url: "https://fabiendibot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: fabiendibot/pwrshelldotnet
 twitter: fadibot
 github: fabiendibot
